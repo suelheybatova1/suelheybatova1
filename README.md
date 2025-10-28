@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Suel!
+# Hi, I'm Suel!
 
-💻 I enjoy learning programming languages and exploring how technology works.  
-🎨 I love design and enjoy experimenting with creativity, colors, and visual styles.  
-📚 I'm currently studying at **ADA University (Class of 2026)**, developing both my technical and creative skills.  
+I enjoy learning programming languages and exploring how technology works.  
+I love design and enjoy experimenting with creativity, colors, and visual styles.  
+I'm currently studying at **ADA University (Class of 2026)**, developing both my technical and creative skills.  
 
 > *Fun fact: I often mix design thinking with coding to create something unique!*
 
@@ -12,24 +12,19 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/suel-heybatova" target="_blank">
+  <a href="https://www.linkedin.com/in/suel-heybatova-55b08b203/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="50" height="50"
-         style="margin: 0 15px; transition: all 0.3s ease; transform-origin: center;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"/>
+         style="margin: 0 15px;"/>
   </a>
 
   <!-- Gmail -->
   <a href="mailto:heybatova44@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/452/gmail-new.png"
          width="50" height="50"
-         style="margin: 0 15px; transition: all 0.3s ease; transform-origin: center;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #ff3b3b)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"/>
+         style="margin: 0 15px;"/>
   </a>
 </p>
-
 
 
 ---
@@ -61,7 +56,7 @@
 </p>
 
 
-## ✨ About Me
+## About Me
 
 I'm passionate about connecting **technology and design** to build creative, useful, and inspiring projects.  
 I’m curious, detail-oriented, and always open to learning something new.  

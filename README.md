@@ -12,11 +12,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/suel-heybatova" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="45" height="45"
+         style="margin: 0 10px; transition: all 0.3s ease; transform-origin: center;"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://pinterest.com/suelka1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinterest/pinterest-original.svg" width="45" height="45"/>
+  <a href="mailto:heybatova44@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"
+         width="45" height="45"
+         style="margin: 0 10px; transition: all 0.3s ease; transform-origin: center;"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
   </a>
 </p>
 
@@ -25,20 +32,29 @@
 ## 💻 Tech Stack
 
 <p align="center">
+  <!-- Programming -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <br/>
+</p>
+
+---
+
+## 🎨 Design Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
 
 ## ✨ About Me
 

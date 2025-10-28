@@ -1,6 +1,6 @@
 ### Hi, I'm Suel!
 
-Hi, I'm Suel!<br><br>I'm practicing Swift, Graphic Design, and Java.<br><br>Studying and graduating(2026) at ADA University. <br>Making vlog content about my life on YouTube.<br>I have different hobbies and activities, that i like to do<br><br>Fun fact: i love experimenting with UI/UX design!
+<br><br>I'm practicing Swift, Graphic Design, and Java.<br><br>Studying and graduating(2026) at ADA University. <br>Making vlog content about my life on YouTube.<br>I have different hobbies and activities, that i like to do<br><br>Fun fact: i love experimenting with UI/UX design!
 
 
 ## 🌐 Socials:

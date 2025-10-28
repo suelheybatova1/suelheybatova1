@@ -1,8 +1,7 @@
 # Hi, I'm Suel!
 
-I enjoy learning programming languages and exploring how technology works.  
-I love design and enjoy experimenting with creativity, colors, and visual styles.  
-I'm currently studying at **ADA University (Class of 2026)**, developing both my technical and creative skills.  
+I'm a **Computer Science student** at **ADA University (Class of 2026)** with a strong passion for **technology and design**.  
+I enjoy learning new programming languages, building creative digital projects, and exploring how design and functionality work together.
 
 > *Fun fact: I often mix design thinking with coding to create something unique!*
 
@@ -32,12 +31,11 @@ I'm currently studying at **ADA University (Class of 2026)**, developing both my
 ## 💻 Tech Stack
 
 <p align="center">
-  <!-- Programming -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 ---
@@ -55,9 +53,3 @@ I'm currently studying at **ADA University (Class of 2026)**, developing both my
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
-## About Me
-
-I'm passionate about connecting **technology and design** to build creative, useful, and inspiring projects.  
-I’m curious, detail-oriented, and always open to learning something new.  
-My goal is to grow as both a **developer and a designer**, combining logic with creativity.

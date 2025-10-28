@@ -11,21 +11,26 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/suel-heybatova" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="45" height="45"
-         style="margin: 0 10px; transition: all 0.3s ease; transform-origin: center;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+         width="50" height="50"
+         style="margin: 0 15px; transition: all 0.3s ease; transform-origin: center;"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"/>
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:heybatova44@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"
-         width="45" height="45"
-         style="margin: 0 10px; transition: all 0.3s ease; transform-origin: center;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+    <img src="https://img.icons8.com/color/452/gmail-new.png"
+         width="50" height="50"
+         style="margin: 0 15px; transition: all 0.3s ease; transform-origin: center;"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #ff3b3b)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"/>
   </a>
 </p>
+
+
 
 ---
 
